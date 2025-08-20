@@ -1,0 +1,251 @@
+Car Model,Part Damage,Price
+Force Gurkha,Bumper_Broken,5000
+Force Gurkha,Bumper_Dent,2000
+Force Gurkha,Bumper_Scratch,1000
+Force Gurkha,Door_Broken,6000
+Force Gurkha,Door_Dent,2500
+Force Gurkha,Door_Scratch,1200
+Force Gurkha,Glass_Broken,3000
+Force Gurkha,Head-Light_Broken,3500
+Force Gurkha,Hood_Broken,7000
+Force Gurkha,Hood_Dent,3000
+Force Gurkha,Hood_Scratch,1500
+Force Gurkha,Quarter-Panel_Broken,4000
+Force Gurkha,Quarter-Panel_Dent,1800
+Force Gurkha,Quarter-Panel_Scratch,900
+Force Gurkha,Rear-Light_Broken,3200
+Force Gurkha,Roof_Broken,8000
+Force Gurkha,Roof_Undamaged,0
+Force Gurkha,Side-Mirror_Broken,1200
+Force Gurkha,Tail-Light_Broken,3100
+Force Gurkha,Tire_Puncture,800
+Force Gurkha,Trunk_Broken,5000
+Force Gurkha,Trunk_Dent,2200
+Force Gurkha,Trunk_Scratches,1100
+Force Gurkha,Wheel_Broken,2500
+Force Gurkha,Windshield_Broken,4000
+Ford Endeavour,Bumper_Broken,5200
+Ford Endeavour,Bumper_Dent,2100
+Ford Endeavour,Bumper_Scratch,1100
+Ford Endeavour,Door_Broken,6200
+Ford Endeavour,Door_Dent,2600
+Ford Endeavour,Door_Scratch,1300
+Ford Endeavour,Glass_Broken,3200
+Ford Endeavour,Head-Light_Broken,3700
+Ford Endeavour,Hood_Broken,7200
+Ford Endeavour,Hood_Dent,3100
+Ford Endeavour,Hood_Scratch,1600
+Ford Endeavour,Quarter-Panel_Broken,4200
+Ford Endeavour,Quarter-Panel_Dent,1900
+Ford Endeavour,Quarter-Panel_Scratch,950
+Ford Endeavour,Rear-Light_Broken,3300
+Ford Endeavour,Roof_Broken,8200
+Ford Endeavour,Roof_Undamaged,0
+Ford Endeavour,Side-Mirror_Broken,1300
+Ford Endeavour,Tail-Light_Broken,3200
+Ford Endeavour,Tire_Puncture,850
+Ford Endeavour,Trunk_Broken,5100
+Ford Endeavour,Trunk_Dent,2300
+Ford Endeavour,Trunk_Scratches,1150
+Ford Endeavour,Wheel_Broken,2600
+Ford Endeavour,Windshield_Broken,4200
+Honda City,Bumper_Broken,4800
+Honda City,Bumper_Dent,1900
+Honda City,Bumper_Scratch,950
+Honda City,Door_Broken,5800
+Honda City,Door_Dent,2400
+Honda City,Door_Scratch,1100
+Honda City,Glass_Broken,2800
+Honda City,Head-Light_Broken,3400
+Honda City,Hood_Broken,6800
+Honda City,Hood_Dent,2900
+Honda City,Hood_Scratch,1400
+Honda City,Quarter-Panel_Broken,3900
+Honda City,Quarter-Panel_Dent,1700
+Honda City,Quarter-Panel_Scratch,850
+Honda City,Rear-Light_Broken,3100
+Honda City,Roof_Broken,7800
+Honda City,Roof_Undamaged,0
+Honda City,Side-Mirror_Broken,1100
+Honda City,Tail-Light_Broken,3000
+Honda City,Tire_Puncture,750
+Honda City,Trunk_Broken,4900
+Honda City,Trunk_Dent,2100
+Honda City,Trunk_Scratches,1050
+Honda City,Wheel_Broken,2400
+Honda City,Windshield_Broken,3800
+Hyundai Creta,Bumper_Broken,5100
+Hyundai Creta,Bumper_Dent,2050
+Hyundai Creta,Bumper_Scratch,1050
+Hyundai Creta,Door_Broken,6100
+Hyundai Creta,Door_Dent,2550
+Hyundai Creta,Door_Scratch,1250
+Hyundai Creta,Glass_Broken,3100
+Hyundai Creta,Head-Light_Broken,3600
+Hyundai Creta,Hood_Broken,7100
+Hyundai Creta,Hood_Dent,3050
+Hyundai Creta,Hood_Scratch,1550
+Hyundai Creta,Quarter-Panel_Broken,4150
+Hyundai Creta,Quarter-Panel_Dent,1850
+Hyundai Creta,Quarter-Panel_Scratch,925
+Hyundai Creta,Rear-Light_Broken,3250
+Hyundai Creta,Roof_Broken,8100
+Hyundai Creta,Roof_Undamaged,0
+Hyundai Creta,Side-Mirror_Broken,1250
+Hyundai Creta,Tail-Light_Broken,3150
+Hyundai Creta,Tire_Puncture,825
+Hyundai Creta,Trunk_Broken,5050
+Hyundai Creta,Trunk_Dent,2250
+Hyundai Creta,Trunk_Scratches,1125
+Hyundai Creta,Wheel_Broken,2550
+Hyundai Creta,Windshield_Broken,4100
+Kia Seltos,Bumper_Broken,4950
+Kia Seltos,Bumper_Dent,1980
+Kia Seltos,Bumper_Scratch,990
+Kia Seltos,Door_Broken,5950
+Kia Seltos,Door_Dent,2450
+Kia Seltos,Door_Scratch,1190
+Kia Seltos,Glass_Broken,2950
+Kia Seltos,Head-Light_Broken,3450
+Kia Seltos,Hood_Broken,6950
+Kia Seltos,Hood_Dent,2980
+Kia Seltos,Hood_Scratch,1490
+Kia Seltos,Quarter-Panel_Broken,3980
+Kia Seltos,Quarter-Panel_Dent,1680
+Kia Seltos,Quarter-Panel_Scratch,840
+Kia Seltos,Rear-Light_Broken,3080
+Kia Seltos,Roof_Broken,7750
+Kia Seltos,Roof_Undamaged,0
+Kia Seltos,Side-Mirror_Broken,1080
+Kia Seltos,Tail-Light_Broken,2980
+Kia Seltos,Tire_Puncture,720
+Kia Seltos,Trunk_Broken,4780
+Kia Seltos,Trunk_Dent,1980
+Kia Seltos,Trunk_Scratches,990
+Kia Seltos,Wheel_Broken,2280
+Kia Seltos,Windshield_Broken,3700
+Maruti Suzuki Swift,Bumper_Broken,4700
+Maruti Suzuki Swift,Bumper_Dent,1850
+Maruti Suzuki Swift,Bumper_Scratch,900
+Maruti Suzuki Swift,Door_Broken,5700
+Maruti Suzuki Swift,Door_Dent,2300
+Maruti Suzuki Swift,Door_Scratch,1000
+Maruti Suzuki Swift,Glass_Broken,2600
+Maruti Suzuki Swift,Head-Light_Broken,3200
+Maruti Suzuki Swift,Hood_Broken,6600
+Maruti Suzuki Swift,Hood_Dent,2700
+Maruti Suzuki Swift,Hood_Scratch,1300
+Maruti Suzuki Swift,Quarter-Panel_Broken,3700
+Maruti Suzuki Swift,Quarter-Panel_Dent,1500
+Maruti Suzuki Swift,Quarter-Panel_Scratch,800
+Maruti Suzuki Swift,Rear-Light_Broken,2900
+Maruti Suzuki Swift,Roof_Broken,7600
+Maruti Suzuki Swift,Roof_Undamaged,0
+Maruti Suzuki Swift,Side-Mirror_Broken,900
+Maruti Suzuki Swift,Tail-Light_Broken,2800
+Maruti Suzuki Swift,Tire_Puncture,700
+Maruti Suzuki Swift,Trunk_Broken,4700
+Maruti Suzuki Swift,Trunk_Dent,1900
+Maruti Suzuki Swift,Trunk_Scratches,950
+Maruti Suzuki Swift,Wheel_Broken,2100
+Maruti Suzuki Swift,Windshield_Broken,3500
+Toyota Innova,Bumper_Broken,5300
+Toyota Innova,Bumper_Dent,2150
+Toyota Innova,Bumper_Scratch,1150
+Toyota Innova,Door_Broken,6300
+Toyota Innova,Door_Dent,2700
+Toyota Innova,Door_Scratch,1350
+Toyota Innova,Glass_Broken,3400
+Toyota Innova,Head-Light_Broken,3800
+Toyota Innova,Hood_Broken,7400
+Toyota Innova,Hood_Dent,3200
+Toyota Innova,Hood_Scratch,1700
+Toyota Innova,Quarter-Panel_Broken,4300
+Toyota Innova,Quarter-Panel_Dent,2000
+Toyota Innova,Quarter-Panel_Scratch,1000
+Toyota Innova,Rear-Light_Broken,3400
+Toyota Innova,Roof_Broken,8300
+Toyota Innova,Roof_Undamaged,0
+Toyota Innova,Side-Mirror_Broken,1400
+Toyota Innova,Tail-Light_Broken,3300
+Toyota Innova,Tire_Puncture,900
+Toyota Innova,Trunk_Broken,5200
+Toyota Innova,Trunk_Dent,2400
+Toyota Innova,Trunk_Scratches,1200
+Toyota Innova,Wheel_Broken,2700
+Toyota Innova,Windshield_Broken,4300
+Mahindra Thar,Bumper_Broken,5400
+Mahindra Thar,Bumper_Dent,2200
+Mahindra Thar,Bumper_Scratch,1200
+Mahindra Thar,Door_Broken,6400
+Mahindra Thar,Door_Dent,2750
+Mahindra Thar,Door_Scratch,1400
+Mahindra Thar,Glass_Broken,3500
+Mahindra Thar,Head-Light_Broken,3900
+Mahindra Thar,Hood_Broken,7500
+Mahindra Thar,Hood_Dent,3300
+Mahindra Thar,Hood_Scratch,1800
+Mahindra Thar,Quarter-Panel_Broken,4400
+Mahindra Thar,Quarter-Panel_Dent,2100
+Mahindra Thar,Quarter-Panel_Scratch,1050
+Mahindra Thar,Rear-Light_Broken,3500
+Mahindra Thar,Roof_Broken,8400
+Mahindra Thar,Roof_Undamaged,0
+Mahindra Thar,Side-Mirror_Broken,1500
+Mahindra Thar,Tail-Light_Broken,3400
+Mahindra Thar,Tire_Puncture,950
+Mahindra Thar,Trunk_Broken,5300
+Mahindra Thar,Trunk_Dent,2500
+Mahindra Thar,Trunk_Scratches,1250
+Mahindra Thar,Wheel_Broken,2800
+Mahindra Thar,Windshield_Broken,4400
+Tata Nexon,Bumper_Broken,5000
+Tata Nexon,Bumper_Dent,2000
+Tata Nexon,Bumper_Scratch,1000
+Tata Nexon,Door_Broken,6000
+Tata Nexon,Door_Dent,2500
+Tata Nexon,Door_Scratch,1200
+Tata Nexon,Glass_Broken,3000
+Tata Nexon,Head-Light_Broken,3500
+Tata Nexon,Hood_Broken,7000
+Tata Nexon,Hood_Dent,3000
+Tata Nexon,Hood_Scratch,1500
+Tata Nexon,Quarter-Panel_Broken,4000
+Tata Nexon,Quarter-Panel_Dent,1800
+Tata Nexon,Quarter-Panel_Scratch,900
+Tata Nexon,Rear-Light_Broken,3200
+Tata Nexon,Roof_Broken,8000
+Tata Nexon,Roof_Undamaged,0
+Tata Nexon,Side-Mirror_Broken,1200
+Tata Nexon,Tail-Light_Broken,3100
+Tata Nexon,Tire_Puncture,800
+Tata Nexon,Trunk_Broken,5000
+Tata Nexon,Trunk_Dent,2200
+Tata Nexon,Trunk_Scratches,1100
+Tata Nexon,Wheel_Broken,2500
+Tata Nexon,Windshield_Broken,4000
+Volkswagen Polo,Bumper_Broken,4900
+Volkswagen Polo,Bumper_Dent,1950
+Volkswagen Polo,Bumper_Scratch,980
+Volkswagen Polo,Door_Broken,5900
+Volkswagen Polo,Door_Dent,2420
+Volkswagen Polo,Door_Scratch,1180
+Volkswagen Polo,Glass_Broken,2920
+Volkswagen Polo,Head-Light_Broken,3420
+Volkswagen Polo,Hood_Broken,6920
+Volkswagen Polo,Hood_Dent,2950
+Volkswagen Polo,Hood_Scratch,1480
+Volkswagen Polo,Quarter-Panel_Broken,3950
+Volkswagen Polo,Quarter-Panel_Dent,1650
+Volkswagen Polo,Quarter-Panel_Scratch,830
+Volkswagen Polo,Rear-Light_Broken,3050
+Volkswagen Polo,Roof_Broken,7720
+Volkswagen Polo,Roof_Undamaged,0
+Volkswagen Polo,Side-Mirror_Broken,1050
+Volkswagen Polo,Tail-Light_Broken,2950
+Volkswagen Polo,Tire_Puncture,710
+Volkswagen Polo,Trunk_Broken,4750
+Volkswagen Polo,Trunk_Dent,1950
+Volkswagen Polo,Trunk_Scratches,980
+Volkswagen Polo,Wheel_Broken,2250
+Volkswagen Polo,Windshield_Broken,3680
